@@ -1,0 +1,10 @@
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.row-buttons{
+    display: flex;
+}
+.email{
+    font-size: 10px;
+}
